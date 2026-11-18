@@ -854,6 +854,14 @@ a {
 }
 
 
+.footer-bottom {
+    text-align: center;
+}
+.copyright {
+    margin: 0;
+    font-size: 0.8rem;
+    color: #888888;
+}
 
 /* レスポンシブ対応 */
 @media (max-width: 768px) {
